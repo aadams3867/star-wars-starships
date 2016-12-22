@@ -3,6 +3,8 @@
 #### A basic Bootstrap website that quickly demonstrates my PHP, jQuery, JavaScript, and API skills.
 -------------
 
+Seriously, that Paginator code was no easy task.
+
 ## Heroku
 
 https://star-wars-starships.herokuapp.com/
